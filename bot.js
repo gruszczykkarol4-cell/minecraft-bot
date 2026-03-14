@@ -1,7 +1,7 @@
 const mineflayer = require('mineflayer');
 
 const bot = mineflayer.createBot({
-  host: '6B_SMP.aternos.me',
+  host: '6Broughy.aternos.host',
   port: 24725,
   username: 'AFK_Bot',
   version: '1.21.10' // wersja Twojego serwera
